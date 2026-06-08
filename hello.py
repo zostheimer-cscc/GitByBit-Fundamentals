@@ -1,1 +1,1 @@
-Hello, Meow! World! Meow! Meow! Meow!
+<head>Hello, World!</head>
